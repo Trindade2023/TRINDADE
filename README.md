@@ -39,7 +39,7 @@ This repository serves as a conceptual foundation for applying Vibe Prompting in
 ## Intellectual Provenance
 
 **Concept:** Vibe Prompting  
-**Author:** [Seu Nome ou Username]  
+**Author:** André Luiz Trindade  
 **Status:** Conceptual Framework for Systemic Design  
 **License:** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
