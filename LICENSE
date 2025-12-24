@@ -1,23 +1,17 @@
 Creative Commons Attribution 4.0 International Public License
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution 4.0 International Public License ("Public License"). 
-
 1. ATTRIBUTION AND INTELLECTUAL PROPERTY
-The methodology known as "TRINDADE" (Triangulated Systemic Governance Protocol), including the "Trinity Logic" (3-Agent Minimum), the "SEASA Cycle" (Seed, Expansion, Audit, Synthesis, Accountability), the "Adversarial Logic Protocol (ALP)", the "Refinement Spiral", and the "External Auditor Failsafe Protocol", are the intellectual property of the author.
+The methodology known as "TRINDADE" (Triangulated Systemic Governance Protocol), including the "Trinity Logic" (3-Agent Minimum), the "SEASA Cycle", the "Systemic Invariants", the "Refinement Spiral", and the "External Auditor Failsafe Protocol", are the intellectual property of the author.
 
-2. LICENSED RIGHTS
-Under the terms of this license (CC BY 4.0), you are free to:
-- Share: Copy and redistribute the material in any medium or format.
-- Adapt: Remix, transform, and build upon the material for any purpose, even commercially.
+2. LICENSED RIGHTS (CC BY 4.0)
+You are free to share and adapt this material for any purpose, even commercially, provided that mandatory credit is given.
+Mandatory Attribution: "Based on the TRINDADE Protocol by André Luiz Trindade."
 
-3. CONDITIONS
-You must give appropriate credit to the original author, provide a link to this repository, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. 
-Mandatory credit line: "Based on the TRINDADE Protocol by André Luiz Trindade."
+3. SCOPE OF PROTECTION
+This license specifically protects the mathematical and logical implementation of the 3-agent triangulation and the cryptographic accountability mechanisms (SHA-256) defined in version 1.4.2 (Hardened Enterprise Edition).
 
 4. DISCLAIMER
-The TRINDADE methodology is provided as a framework for systemic and logical governance. The author is not responsible for the specific results, technical decisions, or real-world consequences derived from the implementation of this protocol by third parties.
+The author is not responsible for real-world consequences or technical failures resulting from third-party implementations of this protocol.
 
 Copyright (c) 2024-2025 André Luiz Trindade
-Official Repository: https://github.com/[SEU-USUARIO]/TRINDADE
-
-Full legal code available at: https://creativecommons.org/licenses/by/4.0/legalcode
+Official Repository: https://github.com/Trindade2023/TRINDADE
